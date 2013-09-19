@@ -1,0 +1,971 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Bennett, Alfred W.
+TI  - The Absorptive Glands of Carnivorous Plants
+JO  - The Monthly Microscopical Journal
+VL  - 15
+IS  - 1
+PB  - Blackwell Publishing Ltd
+SN  - 1365-2818
+UR  - http://dx.doi.org/10.1111/j.1365-2818.1876.tb05921.x
+DO  - 10.1111/j.1365-2818.1876.tb05921.x
+SP  - 1
+EP  - 5
+PY  - 1876
+ER  - 
+
+TY  - JOUR
+AU  - Tokunaga, Takashi
+AU  - Dohmura, Atsushi
+AU  - Takada, Noboru
+AU  - Ueda, Minoru
+TI  - Cytotoxic Antifeedant from Dionaea muscipula Ellis: A Defensive Mechanism of Carnivorous Plants Against Predators.
+JO  - ChemInform
+JA  - ChemInform
+VL  - 35
+IS  - 28
+PB  - WILEY-VCH Verlag
+SN  - 1522-2667
+UR  - http://dx.doi.org/10.1002/chin.200428212
+DO  - 10.1002/chin.200428212
+SP  - no
+EP  - no
+KW  - other natural products
+PY  - 2004
+AB  - For Abstract see ChemInform Abstract in Full Text.
+ER  - 
+
+TY  - JOUR
+AU  - Anderson, B.
+AU  - Midgley, J.J.
+TI  - Food or sex; pollinator–prey conflict in carnivorous plants
+JO  - Ecology Letters
+VL  - 4
+IS  - 6
+PB  - Blackwell Science Ltd
+SN  - 1461-0248
+UR  - http://dx.doi.org/10.1046/j.1461-0248.2001.00258.x
+DO  - 10.1046/j.1461-0248.2001.00258.x
+SP  - 511
+EP  - 513
+KW  - Carnivorous plants
+KW  - flower-trap separation
+KW  - pollinator attraction
+KW  - pollinator protection
+KW  - pollinator-prey conflict
+PY  - 2001
+AB  - Carnivorous plants potentially trap their own pollinators and it has been argued that considerable spatial separation of flowers and traps has evolved to protect pollinators. We investigated flower-trap separation of Drosera and Utricularia. Short Drosera had a greater element of floral–trap separation than tall Drosera. Such a relationship is unexpected for plants whose peduncles were evolved to protect their pollinators. Utricularia can not trap pollinators but this genus still produces exceptionally long peduncles. We propose that flower-trap separation evolved because carnivorous plants are often short and need to project their flowers well above ground level to make them more attractive to pollinators.
+ER  - 
+
+TY  - JOUR
+AU  - Strain, Daniel
+TI  - Life: Exposing secrets of bladderworts: Tiny carnivorous plants trap their prey with super speed
+JO  - Science News
+JA  - Sci News
+VL  - 179
+IS  - 6
+PB  - John Wiley & Sons, Inc.
+SN  - 1943-0930
+UR  - http://dx.doi.org/10.1002/scin.5591790611
+DO  - 10.1002/scin.5591790611
+SP  - 11
+EP  - 11
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - JOEL, DANIEL M.
+TI  - Mimicry and mutualism in carnivorous pitcher plants (Sarraceniaceae, Nepenthaceae, Cephalotaceae, Bromeliaceae)
+JO  - Biological Journal of the Linnean Society
+VL  - 35
+IS  - 2
+PB  - Blackwell Publishing Ltd
+SN  - 1095-8312
+UR  - http://dx.doi.org/10.1111/j.1095-8312.1988.tb00465.x
+DO  - 10.1111/j.1095-8312.1988.tb00465.x
+SP  - 185
+EP  - 197
+KW  - Carnivorous plants
+KW  - mimicry
+KW  - mutualism
+KW  - nectar
+KW  - pitcher plants
+KW  - Brocchinia reducta
+KW  - Cephalotus
+KW  - Darlingtonia
+KW  - Heliamphora
+KW  - Nepenthes
+KW  - Sarracenia
+KW  - Cephalotaceae
+KW  - Nepenthaceae
+KW  - Sarraceniaceae
+KW  - Bromeliaceae
+PY  - 1988
+AB  - The carnivorous pitcher plants of the Sarraceniaceae, Nepenthaceae and Cephalotaceae seem to have developed attraction and rewarding systems which resemble those of many flowers. Contrary to a previous view, Batcsian mimicry does not appear to apply to pitcher traps because: (a) there is no evidence of insects visiting traps by mistake, (b) no model is known for any one of the traps, (c) the duration of the trap activity and the structure of the plant community are not compatible with a deceptive mimetic status, (d) nectar which is a real reward is provided to visiting insects by the pitcher plants. It is suggested that these plants perform mutual rather than deceptive relations with the insect communities in their habitats. Insects benefit from nectar which is provided by pitchers and which serves for their nutrition in habitats where sources of floral nectar might be either uncommon or absent. At the same time the insects pay the plants in a small portion of their community which is ‘sacrificed’ as prey and consumed by the plants, which grow in nutrient deficient soils.
+ER  - 
+
+TY  - JOUR
+AU  - Fay, M. F.
+TI  - Carnivorous plants and their habitats
+JO  - Botanical Journal of the Linnean Society
+VL  - 165
+IS  - 4
+PB  - Blackwell Publishing Ltd
+SN  - 1095-8339
+UR  - http://dx.doi.org/10.1111/j.1095-8339.2011.01120.x
+DO  - 10.1111/j.1095-8339.2011.01120.x
+SP  - 439
+EP  - 440
+PY  - 2011
+ER  - 
+
+TY  - JOUR
+AU  - Ellison, Aaron M.
+AU  - Adamec, Lubomír
+TI  - Ecophysiological traits of terrestrial and aquatic carnivorous plants: are the costs and benefits the same?
+JO  - Oikos
+JA  - Oikos
+VL  - 120
+IS  - 11
+PB  - Blackwell Publishing Ltd
+SN  - 1600-0706
+UR  - http://dx.doi.org/10.1111/j.1600-0706.2011.19604.x
+DO  - 10.1111/j.1600-0706.2011.19604.x
+SP  - 1721
+EP  - 1731
+PY  - 2011
+AB  - Identification of tradeoffs among physiological and morphological traits and their use in cost–benefit models and ecological or evolutionary optimization arguments have been hallmarks of ecological analysis for at least 50 years. Carnivorous plants are model systems for studying a wide range of ecophysiological and ecological processes and the application of a cost–benefit model for the evolution of carnivory by plants has provided many novel insights into trait-based cost–benefit models. Central to the cost–benefit model for the evolution of botanical carnivory is the relationship between nutrients and photosynthesis; of primary interest is how carnivorous plants efficiently obtain scarce nutrients that are supplied primarily in organic form as prey, digest and mineralize them so that they can be readily used, and allocate them to immediate versus future needs. Most carnivorous plants are terrestrial – they are rooted in sandy or peaty wetland soils – and most studies of cost–benefit tradeoffs in carnivorous plants are based on terrestrial carnivorous plants. However approximately 10% of carnivorous plants are unrooted aquatic plants. Here we ask whether the cost–benefit model applies equally well to aquatic carnivorous plants and what general insights into tradeoff models are gained by this comparison. Nutrient limitation is more pronounced in terrestrial carnivorous plants, which also have much lower growth rates and much higher ratios of dark respiration to photosynthetic rates than aquatic carnivorous plants. Phylogenetic constraints on ecophysiological tradeoffs among carnivorous plants remain unexplored. Despite differences in detail, the general cost–benefit framework continues to be of great utility in understanding the evolutionary ecology of carnivorous plants. We provide a research agenda that if implemented would further our understanding of ecophysiological tradeoffs in carnivorous plants and also would provide broader insights into similarities and differences between aquatic and terrestrial plants of all types.
+ER  - 
+
+TY  - JOUR
+AU  - Carstens, Bryan C.
+AU  - Satler, Jordan D.
+TI  - The carnivorous plant described as Sarracenia alata contains two cryptic species
+JO  - Biological Journal of the Linnean Society
+JA  - Biol J Linn Soc Lond
+VL  - 109
+IS  - 4
+SN  - 1095-8312
+UR  - http://dx.doi.org/10.1111/bij.12093
+DO  - 10.1111/bij.12093
+SP  - 737
+EP  - 746
+KW  - carnivorous plants
+KW  - phylogeography
+KW  - population genetic structure
+KW  - species delimitation
+PY  - 2013
+AB  - Modern methods for species delimitation provide biologists with the power to detect cryptic diversity in nearly any system. To illustrate the application of such methods, we collected data (21 sequence loci) from a carnivorous plant in southeastern North America and applied several recently developed methods (Gaussian clustering, Structurama, BPP, spedeSTEM). The pale pitcher plant Sarracenia alata inhabits the southeastern USA along the northern coast of the Gulf of Mexico. Sarracenia alata populations are separated by the Mississippi River and Atchafalaya Basin, a known biogeographical barrier in this region, but the cohesiveness of S. alata as currently classified has not been tested rigorously. Multiple analytical approaches (including allelic clustering and species trees methods) suggest that S. alata comprises two cryptic lineages that correspond to the eastern and western portions of the plant's distribution. That such clear genetic evidence for cryptic diversity exists within S. alata and is in conflict with other sources of data (e.g. morphology, environmental differentiation) illustrates a conundrum faced by those who investigate species boundaries: genetic data are often the first type of data to accumulate evidence of differentiation, but most existing taxonomic treatments are based on nongenetic data. Our results suggest that S. alata as currently described contains two cryptic species, and we recommend the elevation of the western populations to species status. © 2013 The Linnean Society of London, Biological Journal of the Linnean Society, 2013, 109, 737–746.
+ER  - 
+
+TY  - JOUR
+AU  - Poppinga, Simon
+AU  - Masselter, Tom
+AU  - Speck, Thomas
+TI  - Faster than their prey: New insights into the rapid movements of active carnivorous plants traps
+JO  - BioEssays
+JA  - BioEssays
+VL  - 35
+IS  - 7
+SN  - 1521-1878
+UR  - http://dx.doi.org/10.1002/bies.201200175
+DO  - 10.1002/bies.201200175
+SP  - 649
+EP  - 657
+KW  - Aldrovanda
+KW  - carnivorous plant
+KW  - Dionaea
+KW  - Drosera
+KW  - fast plant movement
+KW  - Utricularia
+PY  - 2013
+AB  - 
+Plants move in very different ways and for different reasons, but some active carnivorous plants perform extraordinary motion: Their snap-, catapult- and suction traps perform very fast and spectacular motions to catch their prey after receiving mechanical stimuli. Numerous investigations have led to deeper insights into the physiology and biomechanics of these trapping devices, but they are far from being fully understood. We review concisely how plant movements are classified and how they follow principles that bring together speed, actuation and architecture of the moving organ. In particular, we describe and discuss how carnivorous plants manage to execute fast motion. We address open questions and assess the prospects for future studies investigating potential universal mechanisms that could be the basis of key characteristic features in plant movement such as stimulus transduction, post-stimulatory mechanical answers, and organ formation.
+
+ER  - 
+
+TY  - JOUR
+AU  - Schulze, Waltraud
+AU  - Frommer, Wolf B.
+AU  - Ward, John M.
+TI  - Transporters for ammonium, amino acids and peptides are expressed in pitchers of the carnivorous plantNepenthes
+JO  - The Plant Journal
+VL  - 17
+IS  - 6
+PB  - Blackwell Science Ltd
+SN  - 1365-313X
+UR  - http://dx.doi.org/10.1046/j.1365-313X.1999.00414.x
+DO  - 10.1046/j.1365-313X.1999.00414.x
+SP  - 637
+EP  - 646
+PY  - 1999
+AB  - Insect capture and digestion contribute substantially to the nitrogen budget of carnivorous plants. InNepenthes, insect-derived nitrogenous compounds are imported from the pitcher fluid and transported throughout the plant via the vascular tissue to support growth. Import and distribution of nutrients may require transmembrane nitrogen transporters. Representatives of three classes of genes encoding transporters for the nitrogenous compounds ammonium, amino acids and peptides were identified inNepenthespitchers. The expression at the cellular level of an ammonium transporter gene, three amino acid transporter genes, and one peptide transporter gene were investigated in the insect trapping organs ofNepenthes. Expression of the ammonium transporter geneNaAMT1was detected in the head cells of digestive glands in the lower part of the pitcher where NaAMT1 may function in ammonium uptake from the pitcher fluid. One amino acid transporter gene,NaAAP1, was expressed in bundle sheath cells surrounding the vascular tissue. To understand the locations where transmembrane transport could be required within the pitcher, symplasmic and apoplasmic continuity was probed using fluorescent dyes. Symplasmic connections were not found between cortical cells and vascular bundles. Therefore, the amino acid transporter encoded byNaAAP1may be involved in transport of amino acids into the vascular tissue. In contrast, expression of the peptide transporter geneNaNTR1was detected in phloem cells of the vascular tissue within pitchers. NaNTR1 may function in the export of nitrogen from the pitcher by loading peptides into the phloem.
+ER  - 
+
+TY  - JOUR
+AU  - Jobson, Richard W.
+AU  - Albert, Victor A.
+TI  - Molecular Rates Parallel Diversification Contrasts between Carnivorous Plant Sister Lineages1
+JO  - Cladistics
+VL  - 18
+IS  - 2
+PB  - Blackwell Publishing Ltd
+SN  - 1096-0031
+UR  - http://dx.doi.org/10.1111/j.1096-0031.2002.tb00145.x
+DO  - 10.1111/j.1096-0031.2002.tb00145.x
+SP  - 127
+EP  - 136
+PY  - 2002
+AB  - In the carnivorous plant family Lentibulariaceae, the bladderwort lineage (Utricularia and Genlisea) is substantially more species-rich and morphologically divergent than its sister lineage, the butterworts (Pinguicula). Bladderworts have a relaxed body plan that has permitted the evolution of terrestrial, epiphytic, and aquatic forms that capture prey in intricately designed suction bladders or corkscrew-shaped lobster-pot traps. In contrast, the flypaper-trapping butterworts maintain vegetative structures typical of angiosperms. We found that bladderwort genomes evolve significantly faster across seven loci (the trnL intron, the second trnL exon, the trnL–F intergenic spacer, the rps16 intron, rbcL, coxI, and 5.8S rDNA) representing all three genomic compartments. Generation time differences did not show a significant association. We relate these findings to the contested speciation rate hypothesis, which postulates a relationship between increased nucleotide substitution and increased cladogenesis.
+ER  - 
+
+TY  - JOUR
+AU  - Porembski, S.
+AU  - Barthlott, W.
+TI  - Advances in Carnivorous Plants Research
+JO  - Plant Biology
+VL  - 8
+IS  - 6
+PB  - Blackwell Publishing Ltd
+SN  - 1438-8677
+UR  - http://dx.doi.org/10.1055/s-2006-924669
+DO  - 10.1055/s-2006-924669
+SP  - 737
+EP  - 739
+PY  - 2006
+ER  - 
+
+TY  - JOUR
+AU  - Alcalá, Raúl E.
+AU  - Mariano, Néstor A.
+AU  - Osuna, Felipe
+AU  - Abarca, César A.
+TI  - An experimental test of the defensive role of sticky traps in the carnivorous plant Pinguicula moranensis (Lentibulariaceae)
+JO  - Oikos
+JA  - Oikos
+VL  - 119
+IS  - 5
+PB  - Blackwell Publishing Ltd
+SN  - 1600-0706
+UR  - http://dx.doi.org/10.1111/j.1600-0706.2009.18110.x
+DO  - 10.1111/j.1600-0706.2009.18110.x
+SP  - 891
+EP  - 895
+PY  - 2010
+AB  - It has been sustained that the sticky traps present in some carnivorous plants could have evolved from ancestor species bearing leaves covered with secreting glands formerly associated with a defensive function. In this study, we evaluated the interaction of the carnivorous plant Pinguicula moranensis with its insect herbivores to assess the defensive role of the glandular trichomes. Firstly, we estimated the standing levels of insect herbivory in field conditions. We also evaluated the response of herbivore insects to the removal of the secreting glands from the leaves of P. moranensis in field and laboratory conditions. The mean damage was 1.61%, and half of the sampled plants showed no damage. The low level of herbivory in the field suggests that P. moranensis has an efficient defense ability. In the field experiment, after 25 d of exposure to natural damage, treated glandless plants received 18 times more damage than control plants. In the laboratory, the consumption of glandless tissue was three times higher during a 6 h evaluation period. Overall, our results provide evidence that secreting trichomes in Pinguicula are not only associated with prey capture but also have a defensive role. The defensive function could have favored the evolution of the sticky traps, the most extended prey-capture strategy among carnivorous plants.
+ER  - 
+
+TY  - JOUR
+AU  - BUTLER, J. L.
+AU  - ELLISON, A. M.
+TI  - Nitrogen cycling dynamics in the carnivorous northern pitcher plant, Sarracenia purpurea
+JO  - Functional Ecology
+VL  - 21
+IS  - 5
+PB  - Blackwell Publishing Ltd
+SN  - 1365-2435
+UR  - http://dx.doi.org/10.1111/j.1365-2435.2007.01307.x
+DO  - 10.1111/j.1365-2435.2007.01307.x
+SP  - 835
+EP  - 843
+KW  - 15N
+KW  - carnivorous plants
+KW  - nitrogen cycling
+KW  - Sarracenia
+KW  - universal spectrum of leaf traits
+PY  - 2007
+AB  - 
+* 1In nutrient-poor environments, plants employ many strategies to acquire and recycle scarce nutrients. Predictable relationships among a variety of leaf traits, including leaf nitrogen (N) suggest that how plants obtain, use, store and re-use N is a major component of plant fitness. The northern pitcher plant, Sarracenia purpurea, receives nitrogen from multiple sources: NH4 and NO3 dissolved in precipitation; N mineralized from captured prey; the scant N in saturated peat; and N remobilized from storage. In two greenhouse experiments, we examined N cycling in S. purpurea and consider how these dynamics relate to prior observations that this carnivorous plant has an unusually low photosynthetic rate for its tissue N content.
+* 2In the first experiment we assessed assimilation, translocation, storage and remobilization of 15N supplied to pitchers and roots. In the second experiment, we examined how 15N assimilated by the first pitcher produced at the start of the growing season contributed to the production and maintenance of subsequent pitchers, roots and rhizomes.
+* 3Patterns of N cycling were similar at the individual-leaf and whole-plant level. Pitchers assimilated 55%–69% of available 15N and served as both the largest sink for newly assimilated N (> 90% of the 15N assimilated during 2004) and the largest source of N remobilization the following spring. In contrast, N assimilated by roots was low and accounted for < 2·5% of the overall S. purpurea N budget. Sarracenia purpurea used both stored N and newly-acquired N throughout the growing season. The importance of stored N decreased throughout the growing season as newly assimilated N contributed more to later pitcher production.
+* 4Our detailed mechanistic analysis of nitrogen cycling dynamics of S. purpurea suggests why this plant has a low photosynthetic rate for its tissue N content. Excess nitrogen is stored for future use, and production of new pitchers is primarily aimed at enhancing prey capture rather than increasing photosynthetic tissue.
+ER  - 
+
+TY  - JOUR
+AU  - Płachno, B. J.
+AU  - Adamec, L.
+AU  - Lichtscheidl, I. K.
+AU  - Peroutka, M.
+AU  - Adlassnig, W.
+AU  - Vrba, J.
+TI  - Fluorescence Labelling of Phosphatase Activity in Digestive Glands of Carnivorous Plants
+JO  - Plant Biology
+VL  - 8
+IS  - 6
+PB  - Blackwell Publishing Ltd
+SN  - 1438-8677
+UR  - http://dx.doi.org/10.1055/s-2006-924177
+DO  - 10.1055/s-2006-924177
+SP  - 813
+EP  - 820
+KW  - Carnivorous plants
+KW  - digestion
+KW  - enzyme-labelled fluorescence
+KW  - glandular cells
+KW  - mutualism
+KW  - enzymatic activity
+KW  - trap functioning
+KW  - Lentibulariaceae
+PY  - 2006
+AB  - Abstract:  A new ELF (enzyme labelled fluorescence) assay was applied to detect phosphatase activity in glandular structures of 47 carnivorous plant species, especially Lentibulariaceae, in order to understand their digestive activities. We address the following questions: (1) Are phosphatases produced by the plants and/or by inhabitants of the traps? (2) Which type of hairs/glands is involved in the production of phosphatases? (3) Is this phosphatase production a common feature among carnivorous plants or is it restricted to evolutionarily advanced species? Our results showed activity of the phosphatases in glandular structures of the majority of the plants tested, both from the greenhouse and from sterile culture. In addition, extracellular phosphatases can also be produced by trap inhabitants. In Utricularia, activity of phosphatase was detected in internal glands of 27 species from both primitive and advanced sections and different ecological groups. Further positive reactions were found in Genlisea, Pinguicula, Aldrovanda, Dionaea, Drosera, Drosophyllum, Nepenthes, and Cephalotus. In Utricularia and Genlisea, enzymatic secretion was independent of stimulation by prey. Byblis and Roridula are usually considered as “proto-carnivores”, lacking digestive enzymes. However, we found high activity of phosphatases in both species. Thus, they should be classified as true carnivores. We suggest that the inflorescence of Byblis and some Pinguicula species might also be an additional “carnivorous organ”, which can trap a prey, digest it, and finally absorb available nutrients.
+ER  - 
+
+TY  - JOUR
+AU  - CORREIA, ELISABETE
+AU  - FREITAS, HELENA
+TI  - Drosophyllum lusitanicum, an endangered West Mediterranean endemic carnivorous plant: threats and its ability to control available resources
+JO  - Botanical Journal of the Linnean Society
+VL  - 140
+IS  - 4
+PB  - Blackwell Science Ltd
+SN  - 1095-8339
+UR  - http://dx.doi.org/10.1046/j.1095-8339.2002.00108.x
+DO  - 10.1046/j.1095-8339.2002.00108.x
+SP  - 383
+EP  - 390
+KW  - competition
+KW  - competitive ability
+KW  - Droseraceae
+KW  - intraspecific competition
+KW  - microdistribution pattern
+KW  - Portugal
+KW  - seed bank
+PY  - 2002
+AB  - Drosophyllum lusitanicum (L.) Link (Droseraceae), Erva pinheira orvalhada, an endangered carnivorous plant, is a local endemic of clearings in pine, cork oak and oak forests or their successional shrublands in the western Iberian Peninsula and Morocco. The conservation status, distribution and population dynamics of this species are only partially known, both for Spanish and Portuguese occurrences. Portuguese distribution data from herbarium and bibliographic sources were collected for this study. Field work on 50 populations was undertaken in order to improve knowledge on their conservation status and possible threats. Natural causes, infrastructure and housing construction are stressed as the most important threats. Germination tests were carried out and the distribution patterns, plant height and the number of flowers were studied in an arbitrarily chosen population. A relatively high light requirement and low competitive ability to gain light are considered factors likely for the microdistribution pattern. Drosophyllum lusitanicum cannot compete for light in habitats with intense competition. Seeds from D. lusitanicum have reduced probability of germination when adult plants are already growing in the area. It is hypothesized that seed germination shows a similar pattern to flowering, viz over a considerable time rather than in a sudden flush. This strategy may be a key factor for the species’ survival, representing attempts to take advantage of available resources, preventing intraspecific competition and, finally, preventing sudden total disappearance of a population, resulting from any catastrophic events due to natural causes or to human activity. As a result of this study, some conservation measures are suggested.  © The Linnean Society of London, Botanical Journal of the Linnean Society, 2002, 140, 383–390.
+ER  - 
+
+TY  - JOUR
+AU  - Jürgens, Andreas
+AU  - El-Sayed, Ashraf M.
+AU  - Suckling, D. Max
+TI  - Do carnivorous plants use volatiles for attracting prey insects?
+JO  - Functional Ecology
+VL  - 23
+IS  - 5
+PB  - Blackwell Publishing Ltd
+SN  - 1365-2435
+UR  - http://dx.doi.org/10.1111/j.1365-2435.2009.01626.x
+DO  - 10.1111/j.1365-2435.2009.01626.x
+SP  - 875
+EP  - 887
+KW  - insectivorous plants
+KW  - pollinator–prey conflict
+KW  - trap volatiles
+PY  - 2009
+AB  - 1. Scientists have been fascinated by carnivorous plants for centuries and they have thoroughly investigated how these plants can benefit from insect capture for example through increased growth, earlier flowering, and increased seed production. How prey is actually lured into the traps, however, is less well understood. Trapping prey may be achieved in a random way, for example by camouflaging the traps (hiding them in the surrounding vegetation), so that prey is trapped by accidental landing on the trap leaves or wind drift, or in the other extreme, trapping may involve mimicry of other attractive resources such as fruits or flowers by using specific visual or olfactory signals to attract a specific prey assemblage. 2. We investigated for the first time volatiles of the trapping leaves of carnivorous plant species by dynamic headspace methods. We present data on the venus flytrap Dionaea muscipula, the sundew Drosera binata, and the North American pitcher plants Sarracenia flava, Sarracenia leucophylla, Sarracenia minor, and Sarracenia purpurea. A large number of compounds and relatively high emission rates were found in three of the North American pitcher plants (S. flava, S. leucophylla, and S. minor) with compounds typically found in flowers or fruits. This suggests together with other features (e.g. colour, nectar production) that these traps are possibly flower or fruit mimics. The leaves of S. purpurea, Dionaea muscipula, and Drosera binata emitted much weaker scents with lower numbers of components, consisting mainly of volatiles typically emitted from green leaves. 3. We discuss whether or not the use of volatiles for attracting prey animals is linked with specific trapping mechanisms and whether carnivorous plants can be grouped into specialized ‘olfactory syndromes’.
+ER  - 
+
+TY  - JOUR
+AU  - Gotelli, Nicholas J.
+AU  - Smith, Aidan M.
+AU  - Ellison, Aaron M.
+AU  - Ballif, Bryan A.
+TI  - Proteomic characterization of the major arthropod associates of the carnivorous pitcher plant Sarracenia purpurea
+JO  - PROTEOMICS
+JA  - Proteomics
+VL  - 11
+IS  - 11
+PB  - WILEY-VCH Verlag
+SN  - 1615-9861
+UR  - http://dx.doi.org/10.1002/pmic.201000256
+DO  - 10.1002/pmic.201000256
+SP  - 2354
+EP  - 2358
+KW  - Animal proteomics
+KW  - Ecosystem
+KW  - LC-MS/MS
+KW  - Nonmodel organism
+KW  - Pitcher Plant
+PY  - 2011
+AB  - The array of biomolecules generated by a functioning ecosystem represents both a potential resource for sustainable harvest and a potential indicator of ecosystem health and function. The cupped leaves of the carnivorous pitcher plant, Sarracenia purpurea, harbor a dynamic food web of aquatic invertebrates in a fully functional miniature ecosystem. The energetic base of this food web consists of insect prey, which is shredded by aquatic invertebrates and decomposed by microbes. Biomolecules and metabolites produced by this food web are actively exchanged with the photosynthesizing plant. In this report, we provide the first proteomic characterization of the sacrophagid fly (Fletcherimyia fletcheri), the pitcher plant mosquito (Wyeomyia smithii), and the pitcher-plant midge (Metriocnemus knabi). These three arthropods act as predators, filter feeders, and shredders at distinct trophic levels within the S. purpurea food web. More than 50 proteins from each species were identified, ten of which were predominantly or uniquely found in one species. Furthermore, 19 peptides unique to one of the three species were identified using an assembled database of 100 metazoan myosin heavy chain orthologs. These molecular signatures may be useful in species monitoring within heterogeneous ecosystem biomass and may also serve as indicators of ecosystem state.
+ER  - 
+
+TY  - JOUR
+AU  - Dicke, Marcel
+TI  - Are herbivore-induced plant volatiles reliable indicators of herbivore identity to foraging carnivorous arthropods?
+JO  - Entomologia Experimentalis et Applicata
+VL  - 91
+IS  - 1
+PB  - Blackwell Science Ltd
+SN  - 1570-7458
+UR  - http://dx.doi.org/10.1046/j.1570-7458.1999.00475.x
+DO  - 10.1046/j.1570-7458.1999.00475.x
+SP  - 131
+EP  - 142
+KW  - tritrophic interactions
+KW  - volatile infochemicals
+KW  - predators
+KW  - parasitoids
+KW  - Hymenoptera
+KW  - Phytoseiidae
+KW  - learning
+KW  - specific hunger
+KW  - specificity
+KW  - headspace composition
+KW  - behavioural ecology
+PY  - 1999
+AB  - Plants that are damaged by herbivorous arthropods provide carnivorous enemies of the herbivores with important information. They emit an induced volatile blend that is highly detectable to the carnivores from a distance. Such detectable signals that indicate herbivore presence are important for the carnivores because herbivores themselves are under strong selection not to expose themselves. In addition, carnivores would benefit from a specificity of the induced plant volatiles. Whether herbivore-induced plant volatiles are reliable indicators of herbivore identity, however, has not been resolved unambiguously. Some studies support the reliability of herbivore-induced plant volatiles, while others do not. Different approaches have been used such as chemical analysis, behavioural analysis or a combination of the two. Based on the total of chemical studies one might conclude that in most cases herbivore-induced plant volatiles are not very specific for the herbivore that damages the plant. However, arthropod chemosensors are much more sensitive than the detectors of analytical instruments. Therefore, chemical analyses are not suitable to demonstrate whether or not herbivore-induced plant volatiles are reliable indicators of herbivore identity to carnivores. Behavioural studies should provide this information. In analysing carnivore behaviour it should be realised, however, that arthropod behaviour can be highly variable. Arthropod foraging decisions are affected by external and internal factors such as (a) abiotic environmental factors, (b) presence of competitors or enemies, (c) deprivation of food or oviposition sites, (d) specific deprivation of certain nutrients or (e) learning. In this paper their effect on discrimination of carnivores between volatile blends emitted by plants infested by different herbivores is reviewed. This provides testable hypotheses of why discrimination was not found in some studies. The ability of carnivores to discriminate is likely to be more common than is clear to date, which should invoke functional studies of the conditions that influence the occurrence of this discrimination.
+ER  - 
+
+TY  - JOUR
+AU  - Adlassnig, Wolfram
+AU  - Koller-Peroutka, Marianne
+AU  - Bauer, Sonja
+AU  - Koshkin, Edith
+AU  - Lendl, Thomas
+AU  - Lichtscheidl, Irene K.
+TI  - Endocytotic uptake of nutrients in carnivorous plants
+JO  - The Plant Journal
+VL  - 71
+IS  - 2
+PB  - Blackwell Publishing Ltd
+SN  - 1365-313X
+UR  - http://dx.doi.org/10.1111/j.1365-313X.2012.04997.x
+DO  - 10.1111/j.1365-313X.2012.04997.x
+SP  - 303
+EP  - 313
+KW  - nutrient uptake
+KW  - insectivorous plants
+KW  - pitcher trap
+KW  - adhesive trap
+KW  - Nepenthes
+KW  - Drosera
+PY  - 2012
+AB  - Carnivorous plants trap, digest and absorb animals in order to supplement their mineral nutrition. Nutrients absorbed by the plant include different nitrogen species, phosphate, potassium, trace elements and small organic compounds. Uptake is usually thought to be performed via specific channels, but this study provides evidence that endocytosis is involved as well. Traps of the carnivorous plants Nepenthes coccinea, Nepenthes ventrata, Cephalotus follicularis, Drosophyllum lusitanicum, Drosera capensis, Dionaea muscipula, Aldrovanda vesiculosa, Genlisea violacea × lobata, Sarracenia psittacina and Sarracenia purpurea were stained with methylene blue in order to identify possible sites of uptake. The permeable parts of the traps were incubated with fluorescein isothiocyanate labelled bovine serum albumin (FITC-BSA) and other fluorescent endocytosis markers, combined with the soluble protein BSA or respiratory inhibitors. Uptake was studied by confocal microscopy. In Nepenthes, small fluorescent vesicles became visible 1 h after incubation with FITC-BSA. These vesicles fused to larger compartments within 30 h. A similar behaviour was found in the related genera Drosera, Dionaea, Aldrovanda and Drosophyllum but also in Cephalotus with glands of different evolutionary origin. In Genlisea and Sarracenia, no evidence for endocytosis was found. We propose that in many carnivorous plants, nutrient uptake by carriers is supplemented by endocytosis, which enables absorption and intracellular digestion of whole proteins. The advantage for the plant of reducing secretion of enzymes for extracellular digestion is evident.
+ER  - 
+
+TY  - JOUR
+AU  - Thorén, L. Magnus
+AU  - Karlsson, P. Staffan
+TI  - Effects of supplementary feeding on growth and reproduction of three carnivorous plant species in a subarctic environment
+JO  - Journal of Ecology
+VL  - 86
+IS  - 3
+PB  - Blackwell Science Ltd
+SN  - 1365-2745
+UR  - http://dx.doi.org/10.1046/j.1365-2745.1998.00276.x
+DO  - 10.1046/j.1365-2745.1998.00276.x
+SP  - 501
+EP  - 510
+KW  - capital breeder
+KW  - carnivorous plant
+KW  - income breeder
+KW  - nutrients
+KW  - Pinguicula
+KW  - resource allocation
+PY  - 1998
+AB  - 1 The effect of supplementary feeding on growth and reproduction of three carnivorous plants species was investigated over a 6-year period. Pinguicula alpina, P. villosa and P. vulgaris populations growing at two altitudes in a subarctic environment were fed with fruit flies (Drosophila melanogaster). 2 Fed plants increased in size relative to control plants during the first years. Subsequently a stable size difference between feeding levels was established. The weight of the over-wintering part was higher in fed plants than in control plants. 3 The flowering frequency (i.e. proportion of plants in a population carrying flowers) was also higher in the fed plants. The proportion of flowering plants increased in the feeding treatment compared to control plants during more-or-less the whole experimental feeding period (5–6 years). Seed production also increased slowly in response to feeding. 4 No feeding effect on nitrogen and phosphorus concentrations in seeds and over-wintering parts was found. 5 In most characteristics the high-altitude populations were less responsive than populations growing at low altitude. In the high-altitude population reproduction failed repeatedly, suggesting that seed output may be more dependent on abiotic factors than on resource availability in cold environments. 6Pinguicula villosa and P. vulgaris used the new resources the same summer for increased leaf rosette growth and current reproduction, showing these species to be income breeders, while the third species (P. alpina) allocated a larger proportion to storage and future reproduction, characteristic of a capital breeder.
+ER  - 
+
+TY  - JOUR
+AU  - Gorb, E. V.
+AU  - Gorb, S. N.
+TI  - Physicochemical Properties of Functional Surfaces in Pitchers of the Carnivorous Plant Nepenthes alata Blanco (Nepenthaceae)
+JO  - Plant Biology
+VL  - 8
+IS  - 6
+PB  - Blackwell Publishing Ltd
+SN  - 1438-8677
+UR  - http://dx.doi.org/10.1055/s-2006-923929
+DO  - 10.1055/s-2006-923929
+SP  - 841
+EP  - 848
+KW  - Trapping organs
+KW  - capillary forces
+KW  - polar component
+KW  - dispersion component
+KW  - free surface energy
+KW  - contact angle of fluid
+KW  - insect attachment
+KW  - pitcher zones
+KW  - adhesion
+PY  - 2006
+AB  - Abstract:  Pitchers of the carnivorous plant Nepenthes alata are highly specialized organs adapted to attract, capture, and digest animals, mostly insects. They consist of several well distinguishable zones, differing in macro-morphology, surface microstructure, and functions. Since physicochemical properties of these surfaces may influence insect adhesion, we measured contact angles of non-polar (diiodomethane) and polar liquids (water and ethylene glycol) and estimated the free surface energy of 1) the lid, 2) the peristome, 3) the waxy surface of the slippery zone, and 4) the glandular surface of the digestive zone in N. alata pitchers. As a control, the external surface of the pitcher, as well as abaxial and adaxial surfaces of the leaf blade, was measured. Both leaf surfaces, both lid surfaces, and the external pitcher surface showed similar contact angles and had rather high values of surface free energy with relatively high dispersion component. These surfaces are considered to support strong adhesion forces based on the capillary interaction, and by this, to promote successful attachment of insects. The waxy surface is almost unwettable, has extremely low surface energy, and therefore, must essentially decrease insect adhesion. Both the peristome and glandular surfaces are wetted readily with both non-polar and polar liquids and have very high surface energy with a predominating polar component. These properties result in the preclusion of insect adhesion due to the hydrophilic lubricating film covering the surfaces. The obtained results support field observations and laboratory experiments of previous authors that demonstrated the possible role of different pitcher surfaces in insect trapping and retention.
+ER  - 
+
+TY  - JOUR
+AU  - Seine, R.
+AU  - Porembski, S.
+AU  - Barthlott, W.
+TI  - A neglected habitat of carnivorous plants: Inselbergs
+JO  - Feddes Repertorium
+JA  - Feddes Repert.
+VL  - 106
+IS  - 5-8
+PB  - Wiley-VCH Verlag
+SN  - 1522-239X
+UR  - http://dx.doi.org/10.1002/fedr.19961060525
+DO  - 10.1002/fedr.19961060525
+SP  - 555
+EP  - 562
+PY  - 1996
+AB  - On the basis of extensive fieldwork, a first survey of carnivorous plants occurring on inselbergs is provided. Inselbergs are mostly dome-shaped granitic or gneissic outcrops with scarce vegetation cover. They are important habitats for carnivorous plants in wooded tropical areas. Three families of carnivorous plants (Droseraceae, Lentibulariaceae, Nepenthaceae), including four genera and 45 species are reported from various inselberg habitats. Carnivorous plant families and genera are represented on inselbergs proportionally to their importance in the regional species pool.
+AB  - Basierend auf intensiven Feldstudien wird erstmals eine zusammenfassende Darstellung der auf Inselbergen auftretenden Karnivore gegeben. Inselberge sind meist domförmige, abrupt aus der Ebene aufsteigende Felserhebungen aus Graniten oder Gneisen. In bewaldeten Tropenregionen stellen sie einen wichtigen Lebensraum für Karnivore dar. Drei Familien (Droseraceae, Lentibulariaceae, Nepenthaceae) mit vier Gattungen und 45 Arten besiedeln Inselberge. Auf Inselbergen sind die Gattungen carnivorer Pflanzen entsprechend ihres Artenanteils an der regionalen Flora repräsentiert.
+ER  - 
+
+TY  - JOUR
+AU  - JOEL, D. M.
+AU  - JUNIPER, B. E.
+AU  - DAFNI, A.
+TI  - ULTRAVIOLET PATTERNS IN THE TRAPS OF CARNIVOROUS PLANTS
+JO  - New Phytologist
+VL  - 101
+IS  - 4
+PB  - Blackwell Publishing Ltd
+SN  - 1469-8137
+UR  - http://dx.doi.org/10.1111/j.1469-8137.1985.tb02864.x
+DO  - 10.1111/j.1469-8137.1985.tb02864.x
+SP  - 585
+EP  - 593
+KW  - Carnivorous plants
+KW  - u.v. patterns
+KW  - prey
+KW  - traps
+KW  - nectar
+PY  - 1985
+AB  - A survey of u.v. patterns in the traps of carnivorous plants reveals that, similar to many flowers, certain traps show conspicuous u.v. patterns. These patterns are based on both u.v.-absorption by the plant surface itself and u.v.-absorption by nectar or pools of the digestive secretion. The results are discussed with respect to the possibility that u.v. patterns may attract prey to certain carnivorous plants.
+ER  - 
+
+TY  - JOUR
+AU  - Farnsworth, Elizabeth J.
+AU  - Ellison, Aaron M.
+TI  - Prey availability directly affects physiology, growth, nutrient allocation and scaling relationships among leaf traits in 10 carnivorous plant species
+JO  - Journal of Ecology
+VL  - 96
+IS  - 1
+PB  - Blackwell Publishing Ltd
+SN  - 1365-2745
+UR  - http://dx.doi.org/10.1111/j.1365-2745.2007.01313.x
+DO  - 10.1111/j.1365-2745.2007.01313.x
+SP  - 213
+EP  - 221
+KW  - carnivorous plants
+KW  - fluorescence
+KW  - leaf production
+KW  - N : P ratio
+KW  - nutrients
+KW  - photosynthesis
+KW  - Sarracenia
+KW  - stoichiometry
+KW  - universal spectrum of leaf traits
+PY  - 2008
+AB  - 
+* 1Scaling relationships among photosynthetic rates, leaf mass per unit area (LMA), and foliar nitrogen (N) and phosphorus (P) content hold across a diverse spectrum of plant species. Carnivorous plants depart from this spectrum because they dedicate substantial leaf area to capturing prey, from which they derive N and P. We conducted a manipulative feeding experiment to test whether scaling relationships of carnivorous plant leaf traits become more similar to those of non-carnivorous taxa when nutrients are not limiting.
+* 2We examined the effects of prey availability on mass-based maximum photosynthetic rate (Amass), chlorophyll fluorescence, foliar nutrient and chlorophyll content, and relative growth rate of 10 Sarracenia species. We hypothesized that increased prey intake would stimulate Amass, reduce stress-related chlorophyll fluorescence, increase photosynthetic nutrient-use efficiencies (PNUEN, PNUEP), and increase relative biomass allocation to photosynthetically efficient, non-carnivorous phyllodes.
+* 3Two plants per species were assigned in a regression design to one of six weekly feedings of finely ground wasps: 0–0.25 g for small plant species; 0–0.5 g for intermediate-sized species; and 0–1.0 g for large species. The first two leaves emerging on each plant were fed.
+* 4Increased prey availability increased photosystem efficiency (Fv/Fm ratio) in the first two leaves, and chlorophyll content and Amass in younger leaves as older leaves rapidly translocated nutrients to growing tissues. Higher prey inputs also led to lower N : P ratios and a shift from P- to N-limitation in younger leaves. PNUEP was significantly enhanced whilst PNUEN was not. Better-fed plants grew faster and produced a significantly higher proportion of phyllodes than controls.
+* 5Feeding shifted scaling relationships of P relative to Amass, N and LMA from outside the third bivariate quartile to within the 50th bivariate percentile of the universal spectrum of leaf traits; other scaling relationships were unaffected. Carnivorous plants can rapidly reallocate P when nutrients are plentiful, but appear to be less flexible in terms of N allocation.
+* 6Synthesis. Our results support the general hypothesis put forward by Shipley et al. (2006) that observed scaling relationships amongst leaf traits derive from trade-offs in allocation to structural tissues vs. liquid-phase (e.g. photosynthetic) processes. These trade-offs appear to be especially constraining for plants growing in extremely nutrient-poor habitats such as bogs and other wetlands.
+ER  - 
+
+TY  - JOUR
+AU  - GREEN, SALLY
+AU  - GREEN, T. L.
+AU  - HESLOP-HARRISON, YOLANDE
+TI  - Seasonal heterophylly and leaf gland features in Triphyophyllum (Dioncophyllaceae), a new carnivorous plant genus
+JO  - Botanical Journal of the Linnean Society
+VL  - 78
+IS  - 2
+PB  - Blackwell Publishing Ltd
+SN  - 1095-8339
+UR  - http://dx.doi.org/10.1111/j.1095-8339.1979.tb02188.x
+DO  - 10.1111/j.1095-8339.1979.tb02188.x
+SP  - 99
+EP  - 116
+KW  - Dioncophyllaceae
+KW  - Triphyophyllum
+KW  - carnivorous plants
+KW  - tropical rain forest
+KW  - heterophylly
+KW  - threatened plants
+KW  - secretory glands
+KW  - digestive enzymes
+PY  - 1979
+AB  - Triphyophyllum peltatum (Dioncophyllaceae), a tropical-West African liane, is heterophyllous, bearing leaves of three types, two on juvenile, non-climbing, short shoots, and the third on the mature axis. The short shoots produce mostly eglandular, lanceolate leaves, but just before the height of the rainy season small clusters of relatively ephemeral, glandular, filiform leaves are formed. These glandular leaves bear both stalked and sessile glands, and they act as efficient trapping organs for the prey, mostly flying insects and other small animals. The stalked glands, of which there are two size classes, are the most anatomically elaborate known in the plant kingdom. Structurally there are similarities with the stalked glands of Drosophyllum and Drosera. At maturity they carry secretion droplets, and stimulation by the prey leads to further secretion. The secretions contain a range of hydrolytic enzymes. During sonic periods of its development Triphyophyllum is probably carnivorous. An important source of nutrients is thus tapped which could be significant in making possible an earlier transition from the juvenile to the rapidly-climbing adult form. The Dioncophyllaceae, contains two other monotypic genera, neither with the carnivorous habit. Triphyophyllum is considered as an ecological African analogue of Nepenthes.
+ER  - 
+
+TY  - JOUR
+AU  - Volkova, Polina A.
+AU  - Sukhov, Nikolaj D.
+AU  - Petrov, Pyotr N.
+TI  - Three carnivorous plant species (Drosera spp.) in European Russia: peaceful coexistence?
+JO  - Nordic Journal of Botany
+JA  - Nordic Journal of Botany
+VL  - 28
+IS  - 4
+PB  - Blackwell Publishing Ltd
+SN  - 1756-1051
+UR  - http://dx.doi.org/10.1111/j.1756-1051.2010.00847.x
+DO  - 10.1111/j.1756-1051.2010.00847.x
+SP  - 409
+EP  - 412
+PY  - 2010
+AB  - In spite of the recent improvements in the understanding of carnivorous plants’ biology, some questions have remained unanswered. In this study, the segregation of food niches (i.e. specialization on different categories of prey) for three sympatric carnivorous temperate Drosera species with different shapes of trapping leaves is tested. Potentially available prey was also taken into account, by using artificial traps. Almost all the prey trapped by the three Drosera species and by passive traps belonged to four insect orders: Diptera, Hymenoptera, Coleoptera, Homoptera, as well as Araneae. Diptera specimens were the main prey for all the species. This study demonstrates that arthropods caught by the three temperate sympatric sundew species (D. rotundifolia, D. obovata and D. anglica), belong to the same orders. The proportions of prey from different orders, caught by different sundew species did not differ significantly. The result does not necessarily imply the absence of interspecific competition for prey: arthropods were identified only to order, and competition may have resulted in specialization on prey taxa of lower rank.
+ER  - 
+
+TY  - JOUR
+AU  - Cross, Adam T.
+AU  - Merritt, David J.
+AU  - Turner, Shane R.
+AU  - Dixon, Kingsley W.
+TI  - Seed germination of the carnivorous plant Byblis gigantea (Byblidaceae) is cued by warm stratification and karrikinolide
+JO  - Botanical Journal of the Linnean Society
+JA  - Bot J Linn Soc
+VL  - 173
+IS  - 1
+SN  - 1095-8339
+UR  - http://dx.doi.org/10.1111/boj.12075
+DO  - 10.1111/boj.12075
+SP  - 143
+EP  - 152
+KW  - physiological dormancy
+KW  - smoke
+KW  - warm stratification
+PY  - 2013
+AB  - Byblidaceae is one of the most poorly studied carnivorous plant families, with seed dormancy and germination biology remaining unresolved. This knowledge deficit has significant conservation and management implications, particularly as the most southerly distributed species, the south-west Western Australian endemic Byblis gigantea, is listed as critically endangered. This study examined the ecophysiology of seed dormancy and germination in B. gigantea in concert with a study of the population dynamics of a single plant community. Mass seedling emergence and plant establishment were observed after a wildfire in 2007 in the natural population, followed by a rapid decline in mature individuals (91%) over a 4-year monitoring period, with almost no inter-fire recruitment (1.4% of all emergence) observed. Seeds possessed a fully developed embryo, and the germination characteristics of fresh seeds classified them as showing physiological dormancy. Seed dormancy was partially alleviated by warm stratification (30 °C) for 8 weeks prior to incubation at 15 °C, with c. 40% germination observed. With the additional exposure of seeds to the germination-active chemical in smoke, karrikinolide, the germination of warm-stratified seeds increased to 89%. Seeds also displayed orthodox storage behaviour and appeared to be amenable to long-term seed banking for conservation. These results present the first observation of the stimulation of the germination of a carnivorous plant by a smoke-derived compound. © 2013 The Linnean Society of London, Botanical Journal of the Linnean Society, 2013, 172, 143–152.
+ER  - 
+
+TY  - JOUR
+AU  - Brewer, J. Stephen
+TI  - Resource competition and fire-regulated nutrient demand in carnivorous plants of wet pine savannas
+JO  - Applied Vegetation Science
+VL  - 9
+IS  - 1
+PB  - Blackwell Publishing Ltd
+SN  - 1654-109X
+UR  - http://dx.doi.org/10.1111/j.1654-109X.2006.tb00651.x
+DO  - 10.1111/j.1654-109X.2006.tb00651.x
+SP  - 11
+EP  - 16
+KW  - Co-existence
+KW  - Diversity
+KW  - Litter
+KW  - Niche complementarity
+KW  - Phenotypic plasticity
+KW  - Pinus elliottii
+KW  - Pinus palustris
+PY  - 2006
+AB  - Question: What are the mechanisms by which fire reduces competition for both a short-lived and a long-lived species in old-growth ground-cover plant communities of wet pine savannas (originally Pinus palustris, replaced by P. elliottii)? Location: Outer coastal plain of southeastern Mississippi, USA. Methods: I reviewed previous competition experiments and proposed a new hypothesis to explain the relationship between fire, competition, and species co-existence in wet longleaf pine savannas. The first study is about growth and seedling emergence responses of a short-lived carnivorous plant, Drosera capillaris, to reduction in below-ground competition and above- plus below-ground competition. The second study deals with growth and survival responses of a long-lived perennial carnivorous plant, Sarracenia alata, to neighbour removal and prey-exclusion to determine if a reduction in nutrient supply increased the intensity of competition in this nutrient-poor system. Results: Fire increased seedling emergence of the short-lived species by reducing above-ground competition through the destruction of above-ground parts of plants and the combustion of associated litter. Prey exclusion did not increase competitive effects of neighbours on the long-lived species. However, because the experiment was conducted in a year without fire, shade reduced nutrient demand, which may have obviated competition for soil nutrients between Sarracenia alata and its neighbours. Conclusion: Repeated fires likely interact with interspecific differences in nutrient uptake to simultaneously reduce both above-ground competition and competition for nutrients in old-growth ground cover communities in pine savannas. Restoration practitioners should consider the possibility that the composition of the plant community is just as important as fire in ensuring that frequent fires maintain species diversity.
+ER  - 
+
+TY  - JOUR
+AU  - MENDEZ, M.
+AU  - JONES, D. GWYNN
+AU  - MANETAS, Y.
+TI  - Enhanced UV-B radiation under field conditions increases anthocyanin and reduces the risk of photoinhibition but does not affect growth in the carnivorous plant Pinguicula vulgaris
+JO  - New Phytologist
+JA  - New Phytologist
+VL  - 144
+IS  - 2
+PB  - Cambridge University Press
+SN  - 1469-8137
+UR  - http://dx.doi.org/10.1046/j.1469-8137.1999.00511.x
+DO  - 10.1046/j.1469-8137.1999.00511.x
+SP  - 275
+EP  - 282
+KW  - anthocyanins
+KW  - carnivorous plant
+KW  - photoinhibition
+KW  - Pinguicula vulgaris
+KW  - UV-B radiation
+PY  - 1999
+AB  - The effects of enhanced UV-B radiation were investigated in the carnivorous plant Pinguicula vulgaris in a field experiment performed in Abisko, North Sweden (68° 21′ N, 18° 49′ E, 380 m above sea level). Potted plants were exposed to either ambient or ambient plus supplemental UV-B radiation, simulating a 15% ozone depletion. No effect was observed on either the epicuticular (external) or cellular (internal) UV absorbing capacity of the leaves. However, the anthocyanin content was more than doubled by supplemental UV-B radiation. In laboratory experiments, the anthocyanin rich, UV-B treated leaves were less susceptible to a low temperature/high light photoinhibitory treatment, as judged by in vivo chlorophyll fluorescence measurements. Yet, this potential benefit did not considerably affect the growth of the plant in the field (leaf area and dry mass, reproductive dry mass, flowering frequency, senescence rates, dry mass of winter buds). However, there was a marginally significant increase in root dry mass and in the root to shoot ratio, which may underlie the significant increase in the nitrogen content of the leaves. We suggest that P. vulgaris is resistant against UV-B radiation damage and that the possible negative effects of additional UV-B radiation on the growth of these plants may have been effectively counterbalanced by the lower risk of photoinhibition, due to the concomitant increase in anthocyanins.
+ER  - 
+
+TY  - JOUR
+AU  - Millett, J.
+AU  - Svensson, B. M.
+AU  - Newton, J.
+AU  - Rydin, H.
+TI  - Reliance on prey-derived nitrogen by the carnivorous plant Drosera rotundifolia decreases with increasing nitrogen deposition
+JO  - New Phytologist
+VL  - 195
+IS  - 1
+PB  - Blackwell Publishing Ltd
+SN  - 1469-8137
+UR  - http://dx.doi.org/10.1111/j.1469-8137.2012.04139.x
+DO  - 10.1111/j.1469-8137.2012.04139.x
+SP  - 182
+EP  - 188
+KW  - carnivorous plants
+KW  - nutrient use
+KW  - plant–animal interactions
+KW  - pollution
+KW  - stable isotope analysis
+PY  - 2012
+AB  - 
+* •Carnivory in plants is presumed to be an adaptation to a low-nutrient environment. Nitrogen (N) from carnivory is expected to become a less important component of the N budget as root N availability increases.
+* •Here, we investigated the uptake of N via roots versus prey of the carnivorous plant Drosera rotundifolia growing in ombrotrophic bogs along a latitudinal N deposition gradient through Sweden, using a natural abundance stable isotope mass balance technique.
+* •Drosera rotundifolia plants receiving the lowest level of N deposition obtained a greater proportion of N from prey (57%) than did plants on bogs with higher N deposition (22% at intermediate and 33% at the highest deposition). When adjusted for differences in plant mass, this pattern was also present when considering total prey N uptake (66, 26 and 26 μg prey N per plant at the low, intermediate and high N deposition sites, respectively). The pattern of mass-adjusted root N uptake was opposite to this (47, 75 and 86 μg N per plant).
+* •Drosera rotundifolia plants in this study switched from reliance on prey N to reliance on root-derived N as a result of increasing N availability from atmospheric N deposition.
+ER  - 
+
+TY  - JOUR
+AU  - Adamec, Lubomír
+TI  - Leaf absorption of mineral nutrients in carnivorous plants stimulates root nutrient uptake
+JO  - New Phytologist
+VL  - 155
+IS  - 1
+PB  - Blackwell Science Ltd
+SN  - 1469-8137
+UR  - http://dx.doi.org/10.1046/j.1469-8137.2002.00441.x
+DO  - 10.1046/j.1469-8137.2002.00441.x
+SP  - 89
+EP  - 100
+KW  - terrestrial carnivorous plants
+KW  - utilization of prey
+KW  - mineral nutrient re-utilization
+KW  - leaf nutrient supply
+KW  - stimulation of root nutrient uptake
+PY  - 2002
+AB  - 
+* • The mineral nutrition of terrestrial carnivorous plants was investigated under glasshouse conditions to elucidate ecophysiological adaptations of this plant group.
+* • In Drosera capillaris and D. capensis, absorption of N, P, K, and Mg from insects was relatively efficient (> 43%), whereas that of Ca was not. Carnivorous plants (D. capensis, D. peltata, D. scorpioides, and Dionaea muscipula) exhibited a high efficiency of re-utilization of N (70–82%), P (51–92%), and K (41–99%) from senescing leaves. Re-utilization of Mg was low or negative, and that of Ca highly negative.
+* • In a growth experiment, foliar nutrient supply led to markedly increased growth and nutrient accumulation in D. capillaris, D. aliciae, and D. spathulata. In all the three species tested it was demonstrated that leaf-supplied nutrients were accumulated in the plant biomass and even stimulated root nutrient uptake.
+* • These results suggest that the main physiological effect of leaf nutrient absorption from prey is a stimulation of root nutrient uptake.
+ER  - 
+
+TY  - JOUR
+AU  - Di Giusto, Bruno
+AU  - Bessière, Jean-Marie
+AU  - Guéroult, Michaël
+AU  - Lim, Linda B. L.
+AU  - Marshall, David J.
+AU  - Hossaert-McKey, Martine
+AU  - Gaume, Laurence
+TI  - Flower-scent mimicry masks a deadly trap in the carnivorous plant Nepenthes rafflesiana
+JO  - Journal of Ecology
+VL  - 98
+IS  - 4
+PB  - Blackwell Publishing Ltd
+SN  - 1365-2745
+UR  - http://dx.doi.org/10.1111/j.1365-2745.2010.01665.x
+DO  - 10.1111/j.1365-2745.2010.01665.x
+SP  - 845
+EP  - 856
+KW  - flower mimicry
+KW  - GC–MS
+KW  - headspace volatile collection
+KW  - insect attraction
+KW  - odour cue
+KW  - olfactometer bioassays
+KW  - pitcher plant
+KW  - plant–insect interaction
+KW  - volatile compounds
+PY  - 2010
+AB  - 1. Nepenthes rafflesiana is a carnivorous vine from Borneo characterized by an ontogenetic pitcher dimorphism with aerial (upper) and ground (lower) pitchers of different morphologies. Previous studies have shown that fragrant upper pitchers of climbing parts of the plant are more effective in trapping flying insects than non-fragrant lower pitchers, which are essentially restricted to an ant diet. We tested the hypotheses that odours are effective cues for prey attraction in this carnivorous plant and that upper pitchers biochemically mimic flowers in their olfactory cues. 2. The visitor diversity and the scent composition of each pitcher type were determined for different sites and periods during field studies in Borneo. Olfactometer bioassays were conducted using fruit flies and ants as models for flying flower-visitors and non-flying visitors, respectively. 3. Fifty-four volatile compounds were identified and the analysis of their relative quantities in the blends showed significant differences between pitcher types. The blends of lower pitchers contained some aliphatics and terpenoids but were poor in benzenoids. Upper pitchers differed from lower ones in that they attracted a greater quantity and diversity of insects, including a guild of flower-visitors absent from the visitor spectrum of lower pitchers. Upper pitchers also emitted a greater quantity of odours and a larger spectrum of volatiles, including some terpenoids and benzenoids that often characterize the sweet scents classically found in flower blends. Choice bioassays showed that, in absence of any visual cue, the scents of the nectariferous pitcher rim (peristome) were particularly attractive to ants and flies, and those of upper pitchers were more attractive to flies than those of lower pitchers. 4. Synthesis. This study demonstrates the use of scent by Nepenthes carnivorous plants to mediate prey attraction. The climbing part of the plant produces pitcher-modified leaves that mimic flower olfactory cues and suggest an evolutionary convergent strategy with that of generalist pollination systems.
+ER  - 
+
+TY  - JOUR
+AU  - Dicke, Marcel
+AU  - De Boer, Jetske G.
+AU  - Höfte, Marleen
+AU  - Rocha-Granados, M. Carmen
+TI  - Mixed blends of herbivore-induced plant volatiles and foraging success of carnivorous arthropods
+JO  - Oikos
+JA  - Oikos
+VL  - 101
+IS  - 1
+PB  - Munksgaard International Publishers
+SN  - 1600-0706
+UR  - http://dx.doi.org/10.1034/j.1600-0706.2003.12571.x
+DO  - 10.1034/j.1600-0706.2003.12571.x
+SP  - 38
+EP  - 48
+PY  - 2003
+AB  - Food webs are overlaid with infochemical webs that mediate direct and indirect interactions. Behavioural ecologists have extensively documented that carnivorous arthropods exploit herbivore-induced plant volatiles during foraging for herbivorous arthropods. Most studies on the role of infochemicals in multitrophic interactions have been conducted against an odour-free background, although field studies show that carnivores also use herbivore-induced plant volatiles under more complex conditions. Here we investigated the effect of mixing the blends of volatiles emitted by two plant species on the foraging behaviour of the predatory mite Phytoseiulus persimilis. This was done in an olfactometer under laboratory conditions and in a semi-field setup under greenhouse conditions. The olfactometer setup ensured directed mixing of the two odour blends, while odour mixing in the greenhouse setup was much less controlled and resulted from diffusion. In 4 out of 5 olfactometer experiments the behaviour towards volatiles from spider-mite (Tetranychus urticae) infested Lima bean plants was not affected by mixing with volatiles from caterpillar (Pieris brassicae) infested Brussels sprouts plants. In the fifth olfactometer experiment the response shifted significantly towards the volatiles from infested Lima bean leaves without volatiles from infested cabbage leaves. In the greenhouse setup no effect of infested cabbage plants or their volatiles on the location of spider-mite infested bean plants was recorded. The two odour blends used in this study, i.e. those from spider-mite infested Lima bean leaves and from caterpillar-infested Brussels sprouts plants, are very different and there is no overlap in compounds that are known to attract the predators. The results are discussed in the context of other types of odour-blend mixing and the effects on food web interactions.
+ER  - 
+
+TY  - JOUR
+AU  - Bonhomme, Vincent
+AU  - Pelloux-Prayer, Hervé
+AU  - Jousselin, Emmanuelle
+AU  - Forterre, Yoël
+AU  - Labat, Jean-Jacques
+AU  - Gaume, Laurence
+TI  - Slippery or sticky? Functional diversity in the trapping strategy of Nepenthes carnivorous plants
+JO  - New Phytologist
+VL  - 191
+IS  - 2
+PB  - Blackwell Publishing Ltd
+SN  - 1469-8137
+UR  - http://dx.doi.org/10.1111/j.1469-8137.2011.03696.x
+DO  - 10.1111/j.1469-8137.2011.03696.x
+SP  - 545
+EP  - 554
+KW  - biological trade-off
+KW  - carnivorous pitcher plant
+KW  - digestive fluid
+KW  - leaf wax
+KW  - Nepenthes
+KW  - trapping strategy
+KW  - viscoelasticity
+PY  - 2011
+AB  - 
+* •The pitcher-shaped leaves of Nepenthes carnivorous plants have been considered as pitfall traps that essentially rely on slippery surfaces to capture insects. But a recent study of Nepenthes rafflesiana has shown that the viscoelasticity of the digestive fluid inside the pitchers plays a key role.
+* •Here, we investigated whether Nepenthes species exhibit diverse trapping strategies. We measured the amount of slippery wax on the pitcher walls of 23 taxa and the viscoelasticity of their digestive liquid and compared their retention efficiency on ants and flies.
+* •The amount of wax was shown to vary greatly between species. Most mountain species exhibited viscoelastic digestive fluids while water-like fluids were predominant in lowland species. Both characteristics contributed to insect trapping but wax was more efficient at trapping ants while viscoelasticity was key in trapping insects and was even more efficient than wax on flies. Trap waxiness and fluid viscoelasticity were inversely related, suggesting the possibility of an investment trade-off for the plants.
+* •Therefore Nepenthes pitcher plants do not solely employ slippery devices to trap insects but often employ a viscoelastic strategy. The entomofauna specific to the plant’s habitat may exert selective pressures, favouring one trapping strategy at the expense of the other.
+ER  - 
+
+TY  - JOUR
+AU  - Kurup, R.
+AU  - Johnson, A. J.
+AU  - Sankar, S.
+AU  - Hussain, A. A.
+AU  - Kumar, C. Sathish
+AU  - Sabulal, B.
+TI  - Fluorescent prey traps in carnivorous plants
+JO  - Plant Biology
+JA  - Plant Biol J
+VL  - 15
+IS  - 3
+SN  - 1438-8677
+UR  - http://dx.doi.org/10.1111/j.1438-8677.2012.00709.x
+DO  - 10.1111/j.1438-8677.2012.00709.x
+SP  - 611
+EP  - 615
+KW  - Carnivorous plants
+KW  - Dionaea
+KW  - fluorescent traps
+KW  - Nepenthes
+KW  - prey capture
+KW  - Sarracenia
+PY  - 2013
+AB  - Carnivorous plants acquire most of their nutrients by capturing ants, insects and other arthropods through their leaf-evolved biological traps. So far, the best-known attractants in carnivorous prey traps are nectar, colour and olfactory cues. Here, fresh prey traps of 14 Nepenthes, five Sarracenia, five Drosera, two Pinguicula species/hybrids, Dionaea muscipula and Utricularia stellaris were scanned at UV 366 nm. Fluorescence emissions of major isolates of fresh Nepenthes khasiana pitcher peristomes were recorded at an excitation wavelength of 366 nm. N. khasiana field pitcher peristomes were masked by its slippery zone extract, and prey capture rates were compared with control pitchers. We found the existence of distinct blue fluorescence emissions at the capture spots of Nepenthes, Sarracenia and Dionaea prey traps at UV 366 nm. These alluring blue emissions gradually developed with the growth of the prey traps and diminished towards their death. On excitation at 366 nm, N. khasiana peristome 3:1 CHCl3–MeOH extract and its two major blue bands showed strong fluorescence emissions at 430–480 nm. Masking of blue emissions on peristomes drastically reduced prey capture in N. khasiana pitchers. We propose these molecular emissions as a critical factor attracting arthropods and other visitors to these carnivorous traps. Drosera, Pinguicula and Utricularia prey traps showed only red chlorophyll emissions at 366 nm.
+ER  - 
+
+TY  - JOUR
+AU  - Bott, Terry
+AU  - Meyer, Gretchen A.
+AU  - Young, Erica B.
+TI  - Nutrient limitation and morphological plasticity of the carnivorous pitcher plant Sarracenia purpurea in contrasting wetland environments
+JO  - New Phytologist
+VL  - 180
+IS  - 3
+PB  - Blackwell Publishing Ltd
+SN  - 1469-8137
+UR  - http://dx.doi.org/10.1111/j.1469-8137.2008.02575.x
+DO  - 10.1111/j.1469-8137.2008.02575.x
+SP  - 631
+EP  - 641
+KW  - bog
+KW  - fen
+KW  - morphological plasticity
+KW  - nitrogen
+KW  - nutrient stoichiometry
+KW  - phosphorus
+KW  - Sarracenia purpurea (pitcher plant)
+KW  - wetland
+PY  - 2008
+AB  - 
+* • Plasticity of leaf nutrient content and morphology, and macronutrient limitation were examined in the northern pitcher plant, Sarracenia purpurea subsp. purpurea, in relation to soil nutrient availability in an open, neutral pH fen and a shady, acidic ombrotrophic bog, over 2 yr following reciprocal transplantation of S. purpurea between the wetlands.
+* • In both wetlands, plants were limited by nitrogen (N) but not phosphorus (P) (N content < 2% DW−1, N : P < 14) but photosynthetic quantum yields were high (FV/FM > 0.79). Despite carnivory, leaf N content correlated with dissolved N availability to plant roots (leaf N vs , r2 = 0.344, P < 0.0001); carnivorous N acquisition did not apparently overcome N limitation.
+* • Following transplantation, N content and leaf morphological traits changed in new leaves to become more similar to plants in the new environment, reflecting wetland nutrient availability. Changes in leaf morphology were faster when plants were transplanted from fen to bog than from bog to fen, possibly reflecting a more stressful environment in the bog.
+* • Morphological plasticity observed in response to changes in nutrient supply to the roots in natural habitats complements previous observations of morphological changes with experimental nutrient addition to pitchers.
+ER  - 
+
+TY  - JOUR
+AU  - Heubl, G.
+AU  - Bringmann, G.
+AU  - Meimberg, H.
+TI  - Molecular Phylogeny and Character Evolution of Carnivorous Plant Families in Caryophyllales — Revisited
+JO  - Plant Biology
+VL  - 8
+IS  - 6
+PB  - Blackwell Publishing Ltd
+SN  - 1438-8677
+UR  - http://dx.doi.org/10.1055/s-2006-924460
+DO  - 10.1055/s-2006-924460
+SP  - 821
+EP  - 830
+KW  - Caryophyllales
+KW  - matK
+KW  - trnK
+KW  - atpB
+KW  - rbcL
+KW  - 18S rDNA
+KW  - carnivorous taxa
+KW  - phylogeny
+KW  - character evolution
+KW  - biogeography
+PY  - 2006
+AB  - Abstract:  Recent phylogenetic analyses based on single gene and combined data sets have substantially increased our knowledge of the phylogeny of Caryophyllales s.l., indicating that additional carnivorous families are related to this alliance. In earlier contributions towards a reassessment of inter- and infrafamilial relationships slowly evolving genes had been preferred for phylogenetic inference. The resulting tree topologies based on rbcL and 18S rDNA, however, were characterized by limited resolution, low internal support and topological incongruence. Therefore genomic regions evolving more rapidly have been used in subsequent studies. Comparative sequencing of the matK gene and the flanking trnK intron region as well as combined analyses based on plastid matK, atpB, rbcL, and nuclear 18S rDNA have effectively improved resolution and internal support. Tree topologies revealed Caryophyllales s.l. as monophyletic group and indicated a clear division into two sister clades, the “core” and the “non-core” Caryophyllales (with Rhabdodendraceae and Simmondsiaceae with unclear affinities). Contrary to the “core” group (with Asteropeiaceae and Physenaceae as successive sister groups), which corresponds largely to the previous circumscription of the order, the monophyly of “non-core” Caryophyllales comprising Polygonaceae, Plumbaginaceae, Frankeniaceae, and Tamaricaceae along with the carnivorous families Droseraceae, Nepenthaceae, Drosophyllaceae, Dioncophyllaceae, and Ancistrocladaceae are a recent discovery. Based on reliable tree topologies it is hypothesized that pitfall traps of Nepenthes and snap traps typical for Aldrovanda and Dionaea were derived from a common ancestor with adhesive flypaper traps. With exception of Triphyophyllum carnivory was secondarily lost in the remaining Dioncophyllaceae (Dioncophyllum, Habropetalum) and all taxa of Ancistrocladaceae.
+ER  - 
+
+TY  - JOUR
+AU  - BAUER, U.
+AU  - CLEMENTE, C. J.
+AU  - RENNER, T.
+AU  - FEDERLE, W.
+TI  - Form follows function: morphological diversification and alternative trapping strategies in carnivorous Nepenthes pitcher plants
+JO  - Journal of Evolutionary Biology
+VL  - 25
+IS  - 1
+PB  - Blackwell Publishing Ltd
+SN  - 1420-9101
+UR  - http://dx.doi.org/10.1111/j.1420-9101.2011.02406.x
+DO  - 10.1111/j.1420-9101.2011.02406.x
+SP  - 90
+EP  - 102
+KW  - carnivorous plants
+KW  - comparative analysis
+KW  - evolution
+KW  - functional morphology
+KW  - Nepenthes
+KW  - peristome aquaplaning
+KW  - trapping mechanism
+KW  - wax crystals
+PY  - 2012
+AB  - Carnivorous plants of the genus Nepenthes have evolved a striking diversity of pitcher traps that rely on specialized slippery surfaces for prey capture. With a comparative study of trap morphology, we show that Nepenthes pitcher plants have evolved specific adaptations for the use of either one of two distinct trapping mechanisms: slippery wax crystals on the inner pitcher wall and ‘insect aquaplaning’ on the wet upper rim (peristome). Species without wax crystals had wider peristomes with a longer inward slope. Ancestral state reconstructions identified wax crystal layers and narrow, symmetrical peristomes as ancestral, indicating that wax crystals have been reduced or lost multiple times independently. Our results complement recent reports of nutrient source specializations in Nepenthes and suggest that these specializations may have driven speciation and rapid diversification in this genus.
+ER  - 
+
+TY  - JOUR
+AU  - Jürgens, Andreas
+AU  - Sciligo, Amber
+AU  - Witt, Taina
+AU  - El-Sayed, Ashraf M.
+AU  - Suckling, D. Max
+TI  - Pollinator-prey conflict in carnivorous plants
+JO  - Biological Reviews
+VL  - 87
+IS  - 3
+PB  - Blackwell Publishing Ltd
+SN  - 1469-185X
+UR  - http://dx.doi.org/10.1111/j.1469-185X.2011.00213.x
+DO  - 10.1111/j.1469-185X.2011.00213.x
+SP  - 602
+EP  - 615
+KW  - carnivorous plants
+KW  - pollinator-prey conflict
+KW  - pollination
+KW  - optimality models
+KW  - pollinator-prey overlap
+PY  - 2012
+AB  - Most carnivorous plants utilize insects in two ways: the flowers attract insects as pollen vectors for sexual reproduction, and the leaves trap insects for nutrients. Feeding on insects has been explained as an adaptation to nutrient-poor soil, and carnivorous plants have been shown to benefit from insect capture through increased growth, earlier flowering and increased seed production. Most carnivorous plant species seem to benefit from insect pollination, although many species autonomously self-pollinate and some propagate vegetatively. However, assuming that outcross pollen is advantageous and is a more important determinant of reproductive success than the nutrients gained from prey, there should be a selective pressure on carnivorous plants not to feed on their potential pollen vectors. Therefore, it has been suggested that carnivorous plants are subject to a conflict, often called the pollinator-prey conflict (PPC). The conflict results from a trade-off of the benefits from feeding on potentially pollinating insects versus the need to use them as pollen vectors for sexual reproduction. In this review we analyze the conditions under which a PPC may occur, review the evidence for the existence of PPCs in carnivorous plants, and explore the mechanisms that may be in place to prevent or alleviate a PPC. With respect to the latter, we discuss how plant signals such as olfactory and visual cues may play a role in separating the functions of pollinator attraction and prey capture.
+ER  - 
+
+TY  - JOUR
+AU  - Ellison, A. M.
+TI  - Nutrient Limitation and Stoichiometry of Carnivorous Plants
+JO  - Plant Biology
+VL  - 8
+IS  - 6
+PB  - Blackwell Publishing Ltd
+SN  - 1438-8677
+UR  - http://dx.doi.org/10.1055/s-2006-923956
+DO  - 10.1055/s-2006-923956
+SP  - 740
+EP  - 747
+KW  - Carnivorous plants
+KW  - stoichiometry
+KW  - potassium
+KW  - photosynthesis
+KW  - phosphorus
+KW  - nitrogen
+KW  - cost-benefit model
+PY  - 2006
+AB  - Abstract:  The cost-benefit model for the evolution of carnivorous plants posits a trade-off between photosynthetic costs associated with carnivorous structures and photosynthetic benefits accrued through additional nutrient acquisition. The model predicts that carnivory is expected to evolve if its marginal benefits exceed its marginal costs. Further, the model predicts that when nutrients are scarce but neither light nor water is limiting, carnivorous plants should have an energetic advantage in competition with non-carnivorous plants. Since the publication of the cost-benefit model over 20 years ago, marginal photosynthetic costs of carnivory have been demonstrated but marginal photosynthetic benefits have not. A review of published data and results of ongoing research show that nitrogen, phosphorus, and potassium often (co-)limit growth of carnivorous plants and that photosynthetic nutrient use efficiency is 20 - 50 % of that of non-carnivorous plants. Assessments of stoichiometric relationships among limiting nutrients, scaling of leaf mass with photosynthesis and nutrient content, and photosynthetic nutrient use efficiency all suggest that carnivorous plants are at an energetic disadvantage relative to non-carnivorous plants in similar habitats. Overall, current data support some of the predictions of the cost-benefit model, fail to support others, and still others remain untested and merit future research. Rather than being an optimal solution to an adaptive problem, botanical carnivory may represent a set of limited responses constrained by both phylogenetic history and environmental stress.
+ER  - 
