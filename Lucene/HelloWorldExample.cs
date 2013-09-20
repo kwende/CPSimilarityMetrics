@@ -1,4 +1,7 @@
-﻿using Lucene.Net.Analysis.Standard;
+﻿using Accord.MachineLearning;
+using Accord.Statistics.Distributions.DensityKernels;
+using Accord.Statistics.Kernels;
+using Lucene.Net.Analysis.Standard;
 using Lucene.Net.Documents;
 using Lucene.Net.Index;
 using Lucene.Net.Store;
@@ -106,12 +109,28 @@ namespace Lucene
                 }
             }
 
-            StringBuilder sb = new StringBuilder(1024); 
-            foreach (Dictionary<string, int> vector in vectors)
+            double summation = 0.0;
+            string[] keys = vectors[0].Keys.ToArray(); 
+            for (int c = 0; c < keys.Length; c++)
             {
-                double similarity = CosineSimilarity.Compute(vectors[1], vector);
-                sb.AppendLine(similarity.ToString()); 
+                double val = (vectors[10][keys[c]] - vectors[11][keys[c]]);
+                summation += val * val; 
             }
+            double distance = Math.Sqrt(summation); 
+
+            double[][] arr = new double[vectors.Count][]; 
+            for(int c=0;c<vectors.Count;c++)
+            {
+                arr[c] = vectors[c].Values.Select(m=>(double)m).ToArray(); 
+            }
+
+            int dimension = vectors[0].Values.Count; 
+            double sigma = 14.0;
+            MeanShift meanShiftClustering = new MeanShift(dimension, new GaussianKernel(dimension), sigma);
+
+            int[] indices = meanShiftClustering.Compute(arr, .05, 100);
+            MeanShiftClusterCollection clusters = meanShiftClustering.Clusters; 
+            return; 
         }
     }
 }
